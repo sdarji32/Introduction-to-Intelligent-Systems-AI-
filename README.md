@@ -3,7 +3,7 @@ COEN 4850 101 Intro to Intelligent Systems
 + This course provides a broad exposure to intelligent systems, including related fields such as artificial and computational intelligence. Topics include intelligent agents, search, game playing, propositional logic and first-order predicate calculus, uncertainty, learning, communication and perception, and philosophical foundations of intelligent systems. This course is a COEN design elective in the area of intelligent systems
 ## First Assignment 
 ### Building ANN with California Housing Prices
-+ The data should be split into training data and test data in the ratio of 90:101.(1 point)    
++ The data should be split into training data and test data in the ratio of 90:10.(1 point)    
 1. Read in the training data2. (10 points) 
 + Prepare the data[Investigate what data that has a linear or some kind of relation to the sale price
 + Drop the unimportant features or less unimportant features
